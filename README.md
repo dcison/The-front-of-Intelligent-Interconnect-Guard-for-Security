@@ -4,6 +4,8 @@
 * 框架运用React
 * UI使用react-bootstrap、react-fontawesome
 * 路由react-router
+* 响应式开发
+* echarts绘图
 ## 服务器
 * express
 * 跨域请求
